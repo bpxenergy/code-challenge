@@ -2,6 +2,8 @@
  
 **The Code Challenge** - Your coding assignment should you choose to accept it is to pick one of the following coding exercises. Please choose the exercise that you believe best reflects your skill set and experience. You may implement the exercise in any language of your choice. Unless otherwise noted, the minimum requirement is that we can run your application in a CLI. Optionally you can implement the user interface in a web page. 
 
+At the end of this page be sure to read the Documentation and Deliverables sections regardless of which exercise you choose.
+
 Exercise 1 – Numbers to Words
 ===================
 Write some code that will accept an integer and convert it to the appropriate word representation.
@@ -55,7 +57,6 @@ API response to possible anagrams for “integral”
 
 { "results": ["alerting", "altering", "relating", "triangle"] }
 
-
 **Optional**
 - An optional query parameter that indicates the maximum number of results to return in the array of anagrams
 - Endpoint that returns a count of words in the dictionary and min/max/median/average word length
@@ -66,6 +67,19 @@ API response to possible anagrams for “integral”
 - Endpoint to delete a word and all of its anagrams
 - Appropriate Unit Tests
 - A Dockerfile that allows us to run your application in a container
+
+
+
+Exercise 4 - Front End Challenge - Tic-tac-toe
+===================
+
+Create a website that has a tic tac toe board that two people could use to play against each other. Being a front end project, emphasis will be on usability, design, and aesthetics. You don't have to use the base of 3x3 board with x's and o's but the game needs to be tic-tac-toe of some form.
+
+**Optional**
+- Score/games won tracker
+- Hosted online (https://www.heroku.com/free has some free options)
+- Computer AI that plays against you
+- User controls. For instance options to refresh, alter who goes first, or any other feature you can think of
 
 
 Documentation for all projects

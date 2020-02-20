@@ -80,6 +80,7 @@ Create a website that has a tic tac toe board that two people could use to play 
 - Hosted online (https://www.heroku.com/free has some free options)
 - Computer AI that plays against you
 - User controls. For instance options to refresh, alter who goes first, or any other feature you can think of
+- Full stack aspects such as a database to save score
 
 
 Documentation for all projects
